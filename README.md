@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SpeedyM282
 - 👀 I’m interested in Programming, Computer Science
-- 🌱 I’m currently learning C++, JavaScript, React JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++, JavaScript, ReactJS, Java
 - 📫 How to reach me: 
 Facebook: https://www.facebook.com/abdulahad.rizakulov |
 Instagram: https://www.instagram.com/abdulahadr_282 |
