@@ -1,13 +1,59 @@
-- 👋 Hi, I’m @SpeedyM282
-- 👀 I’m interested in Programming, Computer Science
-- 🌱 I’m currently learning C++, JavaScript, ReactJS, Java
-- 📫 How to reach me: 
-Facebook: https://www.facebook.com/abdulahad.rizakulov |
-Instagram: https://www.instagram.com/abdulahadr_282 |
-LinkedIn: https://www.linkedin.com/in/abdulakhad-rizakulov-181a50210 |
-Skype: https://join.skype.com/invite/N4m6fa9HkbEv
+### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
+<div>
+  <a href="https://t.me/SpeedyM_282">
+    <img align="left" alt="Abdulakhad's LinkedIN" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1650836191~hmac=c63dc36bc0f7d06e0cff20b4b696b85c" />
+  </a>
+  <a href="https://discordapp.com/users/884000556694257674/">
+    <img align="left" alt="Abdulakhad's Discord" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulakhad-rizakulov-181a50210">
+    <img align="left" alt="Abdulakhad's LinkedIN" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1650836043~hmac=f6710379c3e0e7c10365f7dac64bbb1c" />
+  </a>
+  <a href="https://www.instagram.com/a.rizakulov282/">
+    <img align="left" alt="Abdulakhad's Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+  </a>
+</div>
+<br /><br />
+<br />
 
-<!---
-SpeedyM282/SpeedyM282 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Student at [INHA University in Tashkent](https://inha.uz/) and now learning Frontend Development to start my career in the IT-sphere. I started learning Frontend Development in August of 2020 and have already made some pet-projects using `HTML`, `CSS`, and `JavaScript`. Also, in the university, I have worked with `Linux` and learned `C/C++`, `Java` and some pet-projects with these programming languages. Currently, I am interested in learning `ReactJS`, because it is a trendy and powerful `JavaScript` framework. All my projects you can find on my `GitHub` page.
+<br /><br />
+
+
+
+<h3>Languages and tools</h3>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
+<br/>
+<div>
+    <img align="left" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+    <img align="left" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img align="left" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <br/><br/><br/>
+    <img align="left" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+    <img align="left" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> 
+    <img align="left" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/> <br/><br/><br/>
+    <img align="left" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+    <img align="left" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
+    <img align="left" height=50 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+</div>
+<br/><br/><br/><br/>
+
+<h3>Some stats</h3>
+<br/>
+<div>
+  <img height=195 src="https://github-readme-stats.vercel.app/api?username=speedym282&show_icons=true&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=speedym282&layout=compact&theme=dark"/> <br/><br/>
+  <img height=195 width=1100 src="https://github-readme-streak-stats.herokuapp.com/?user=speedym282&theme=dark"/>
+</div>
+<br/>
+
+<h3>My works</h3>
+<br/>
+<div>
+  <img width=490 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=rsschool-cv-stage0&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=490 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=react-calc-project&theme=dark"/> <br/><br/>
+  <img width=490 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=slider-project&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=490 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=responsive-webpage1&theme=dark"/> <br/><br/>
+  <img width=490 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=matoa-website&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=490 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=responsive-webpage2&theme=dark"/>
+</div>
+
