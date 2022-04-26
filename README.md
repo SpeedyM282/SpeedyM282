@@ -41,20 +41,20 @@ I am Student at [INHA University in Tashkent](https://inha.uz/) and now learning
 <h3>Some stats</h3>
 <br/>
 <div>
-  <img height=195 src="https://github-readme-stats.vercel.app/api?username=speedym282&show_icons=true&theme=dark"/> <br/><br/>
-  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=speedym282&layout=compact&theme=dark"/> <br/><br/>
-  <img height=195 src="https://github-readme-streak-stats.herokuapp.com/?user=speedym282&theme=dark"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=speedym282&show_icons=true&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=speedym282&layout=compact&theme=dark"/> <br/><br/>
+  <img width=800 height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=speedym282&theme=dark"/>
 </div>
 <br/>
 
 <h3>My works</h3>
 <br/>
 <div>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=rsschool-cv-stage0&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=react-calc-project&theme=dark"/> <br/><br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=slider-project&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=responsive-webpage1&theme=dark"/> <br/><br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=matoa-website&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=responsive-webpage2&theme=dark"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=rsschool-cv-stage0&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=react-calc-project&theme=dark"/> <br/><br/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=slider-project&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=responsive-webpage1&theme=dark"/> <br/><br/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=matoa-website&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=responsive-webpage2&theme=dark"/>
 </div>
 
