@@ -2,16 +2,16 @@
 <br />
 <div>
   <a href="https://t.me/SpeedyM_282">
-    <img align="left" alt="Abdulakhad's LinkedIN" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504941.png?token=exp=1650836191~hmac=c63dc36bc0f7d06e0cff20b4b696b85c" />
+    <img align="left" alt="Abdulakhad's Telegram" width="40px" src="./logos/telegram.png" />
   </a>
   <a href="https://discordapp.com/users/884000556694257674/">
-    <img align="left" alt="Abdulakhad's Discord" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />
+    <img align="left" alt="Abdulakhad's Discord" width="40px" src="./logos/discord.png" />
   </a>
   <a href="https://www.linkedin.com/in/abdulakhad-rizakulov-181a50210">
-    <img align="left" alt="Abdulakhad's LinkedIN" width="40px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1650836043~hmac=f6710379c3e0e7c10365f7dac64bbb1c" />
+    <img align="left" alt="Abdulakhad's Linkedin" width="40px" src="./logos/linkedin.png" />
   </a>
   <a href="https://www.instagram.com/a.rizakulov282/">
-    <img align="left" alt="Abdulakhad's Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+    <img align="left" alt="Abdulakhad's Instagram" width="40px" src="./logos/instagram.png" />
   </a>
 </div>
 <br /><br />
