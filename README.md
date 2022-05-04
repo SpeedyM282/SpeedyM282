@@ -55,6 +55,6 @@ I am Student at [INHA University in Tashkent](https://inha.uz/) and now learning
   <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=slider-project&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=responsive-webpage1&theme=dark"/> <br/><br/>
   <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=matoa-website&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=responsive-webpage2&theme=dark"/>
+  <img width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=speedym282&repo=basic-js&theme=dark"/>
 </div>
 
