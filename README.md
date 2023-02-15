@@ -17,7 +17,7 @@
 <br /><br />
 <br />
 
-I am Student at [INHA University in Tashkent](https://inha.uz/) and now learning Frontend Development to start my career in the IT-sphere. I started learning Frontend Development in August of 2020 and have already made some pet-projects using `HTML`, `CSS`, and `JavaScript`. Also, in the university, I have worked with `Linux` and learned `C/C++`, `Java` and some pet-projects with these programming languages. Currently, I am interested in learning `ReactJS`, because it is a trendy and powerful `JavaScript` framework. All my projects you can find on my `GitHub` page.
+I am a 20-year-old software engineer from Tashkent, Uzbekistan, currently pursuing a degree in computer science at INHA University. I specialize in `JavaScript`, with a particular focus on the `React.js` framework, and have experience with other programming languages such as `Java`, `C++`, and `C`. I have worked on various web development projects, including a Google Chrome extension for a startup, a website for a smartwatch store, and more. My skills include `React Hooks/Context`, `Redux`, `Webpack`, `jQuery`, `MUI`, `Figma`, `HTML`, `CSS`, `Tailwind CSS`, and `SASS/SCSS`. I am passionate about web development and am looking for full-time opportunities, either remote or on-site.
 <br /><br />
 
 
