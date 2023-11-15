@@ -1,20 +1,17 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
 <div>
-  <a href="https://t.me/SpeedyM_282">
-    <img align="left" alt="Abdulakhad's Telegram" width="40px" src="./logos/telegram.png" />
-  </a>
-  <a href="https://discordapp.com/users/884000556694257674/">
-    <img align="left" alt="Abdulakhad's Discord" width="40px" src="./logos/discord.png" />
+  <a href="https://t.me/akhadbek_rizakulov">
+    <img align="left" alt="Akhadbek's Telegram" width="40px" src="./logos/telegram.png" />
   </a>
   <a href="https://www.linkedin.com/in/akhadbek-rizakulov/">
-    <img align="left" alt="Abdulakhad's Linkedin" width="40px" src="./logos/linkedin.png" />
+    <img align="left" alt="Akhadbek's Linkedin" width="40px" src="./logos/linkedin.png" />
   </a>
 </div>
 <br /><br />
 <br />
 
-I am a 20-year-old software engineer from Tashkent, Uzbekistan, currently pursuing a degree in computer science at INHA University. I specialize in `JavaScript`, with a particular focus on the `React.js` framework, and have experience with other programming languages such as `Java`, `C++`, and `C`. I have worked on various web development projects, including a Google Chrome extension for a startup, a website for a smartwatch store, and more. My skills include `React Hooks/Context`, `Redux`, `Webpack`, `jQuery`, `Axios`, `MUI`, `Figma`, `HTML`, `CSS`, `Tailwind CSS`, and `SASS/SCSS`. I am passionate about web development and am looking for full-time opportunities, either remote or on-site.
+I am a 21-year-old software engineer from Tashkent, Uzbekistan, currently pursuing a degree in computer science at INHA University. I specialize in `JavaScript`, with a particular focus on the `React.js` framework, and have experience with other programming languages such as `Java`, `C++`, and `C`. I have worked on various web development projects, including a Google Chrome extension for a startup, a website for a smartwatch store, and more. My skills include `React Hooks/Context`, `Redux`, `Webpack`, `jQuery`, `Axios`, `MUI`, `Figma`, `HTML`, `CSS`, `Tailwind CSS`, and `SASS/SCSS`.
 <br /><br />
 
 
