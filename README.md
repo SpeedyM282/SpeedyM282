@@ -11,7 +11,7 @@
 <br /><br />
 <br />
 
-I am a software engineer from Tashkent, Uzbekistan. I specialize in `JavaScript`, with a particular focus on the `React.js` framework, and have basic knowledge of other programming languages such as `Java`, `C++`, and `C`. I have worked on various web development projects, including a social media platform for gamers, a Google Chrome extension for a startup, an e-commerce platform for a smartwatch store, an online cash desk app, and more. My skills include `JavaScript`, `TypeScript`, `React.js`, `Next.js`, `Redux`, `Axios`, `Tailwind CSS`, and `SASS/SCSS`.
+I am a software engineer. I specialize in `JavaScript`, focusing on the `React.js` library and `Next.js` framework. My skills include `JavaScript`, `TypeScript`, `React.js`, `Next.js`, `Redux`, `Axios`, `Tailwind CSS`, and `SASS/SCSS`.
 <br /><br />
 
 
